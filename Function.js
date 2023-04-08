@@ -13,3 +13,4 @@ function addNumbers(a,b,c) {
 }
 let result = addNumbers(10,20,30);
 console.log(result);
+console.log(addNumbers(2,3,1))
