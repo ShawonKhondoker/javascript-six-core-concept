@@ -29,7 +29,7 @@
       const fileName = "mybiodata.pdf";
       const otherFile = "myNayokPik.png";
 
-      console.log(fileName.endsWith(".png"));
+      console.log(fileName.endsWith(".pdf"));
       console.log(otherFile.endsWith("png"));
     
     
